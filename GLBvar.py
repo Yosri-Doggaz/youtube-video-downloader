@@ -1,0 +1,10 @@
+def init():
+    global status
+    global descLabel
+    global imgViewer
+    global yt
+    global QualityGroup
+    global downloadBtn
+    global loading_movie
+    global Loading_label
+    global tmpDir
